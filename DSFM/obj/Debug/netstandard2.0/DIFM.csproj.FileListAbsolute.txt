@@ -1,0 +1,16 @@
+/Users/Sargon/DSFM/bin/Debug/netstandard2.0/DSFM.deps.json
+/Users/Sargon/DSFM/bin/Debug/netstandard2.0/DSFM.dll
+/Users/Sargon/DSFM/bin/Debug/netstandard2.0/DSFM.pdb
+/Users/Sargon/DSFM/obj/Debug/netstandard2.0/DSFM.csproj.CoreCompileInputs.cache
+/Users/Sargon/DSFM/obj/Debug/netstandard2.0/DSFM.AssemblyInfoInputs.cache
+/Users/Sargon/DSFM/obj/Debug/netstandard2.0/DSFM.AssemblyInfo.cs
+/Users/Sargon/DSFM/obj/Debug/netstandard2.0/DSFM.dll
+/Users/Sargon/DSFM/obj/Debug/netstandard2.0/DSFM.pdb
+/Users/Sargon/DSFM/DSFM/bin/Debug/netstandard2.0/DSFM.deps.json
+/Users/Sargon/DSFM/DSFM/bin/Debug/netstandard2.0/DSFM.dll
+/Users/Sargon/DSFM/DSFM/bin/Debug/netstandard2.0/DSFM.pdb
+/Users/Sargon/DSFM/DSFM/obj/Debug/netstandard2.0/DSFM.csproj.CoreCompileInputs.cache
+/Users/Sargon/DSFM/DSFM/obj/Debug/netstandard2.0/DSFM.AssemblyInfoInputs.cache
+/Users/Sargon/DSFM/DSFM/obj/Debug/netstandard2.0/DSFM.AssemblyInfo.cs
+/Users/Sargon/DSFM/DSFM/obj/Debug/netstandard2.0/DSFM.dll
+/Users/Sargon/DSFM/DSFM/obj/Debug/netstandard2.0/DSFM.pdb

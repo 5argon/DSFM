@@ -1,0 +1,8 @@
+/Users/Sargon/DIFM/DSFM/bin/Debug/netstandard2.0/DSFM.deps.json
+/Users/Sargon/DIFM/DSFM/bin/Debug/netstandard2.0/DSFM.dll
+/Users/Sargon/DIFM/DSFM/bin/Debug/netstandard2.0/DSFM.pdb
+/Users/Sargon/DIFM/DSFM/obj/Debug/netstandard2.0/DSFM.csproj.CoreCompileInputs.cache
+/Users/Sargon/DIFM/DSFM/obj/Debug/netstandard2.0/DSFM.AssemblyInfoInputs.cache
+/Users/Sargon/DIFM/DSFM/obj/Debug/netstandard2.0/DSFM.AssemblyInfo.cs
+/Users/Sargon/DIFM/DSFM/obj/Debug/netstandard2.0/DSFM.dll
+/Users/Sargon/DIFM/DSFM/obj/Debug/netstandard2.0/DSFM.pdb
